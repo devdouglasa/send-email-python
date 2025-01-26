@@ -29,7 +29,7 @@ Outlook | smtp-mail.outlook.com:587
 ## <img width=20 src="https://img.icons8.com/?size=100&id=mpkjcEZEyYpL&format=png&color=000000" /> Requeriments
 
 ```python
-pip install pyhton-dotenv
+pip install python-dotenv
 ```
 
 <br>
